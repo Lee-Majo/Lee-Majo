@@ -26,12 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Majo&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
