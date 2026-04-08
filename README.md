@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Lee-Majo/Lee-Majo/main/myBanner.png" width="100%" />
 </p>
 
@@ -45,6 +45,6 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="#">Portfolio</a> •
-  <a href="#">LinkedIn</a>
+  Coming Soon 🚧 •
+  <a href="https://www.linkedin.com/in/lisel-majo">LinkedIn</a>
 </p>
