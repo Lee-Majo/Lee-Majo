@@ -45,6 +45,6 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  Coming Soon 🚧 •
+  Online Porfolio-Coming Soon 🚧 •
   <a href="https://www.linkedin.com/in/lisel-majo">LinkedIn</a>
 </p>
