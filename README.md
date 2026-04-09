@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1 align="center">Lisel 🌙</h1>
+<h1 align="center">Lisel Majo🌙</h1>
 <h3 align="center">welcome to my digital world</h3>
 
 <p align="center">
