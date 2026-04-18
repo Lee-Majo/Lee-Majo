@@ -46,5 +46,5 @@
 ### 🌐 Connect with me
 <p align="center">
   Online Porfolio-Coming Soon 🚧 •
-  <a href="[https://www.linkedin.com/in/lisel-majo](https://www.linkedin.com/in/lisel-majo-a7b195355?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lisel-majo](https://www.linkedin.com/in/lisel-majo-a7b195355?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 </p>
